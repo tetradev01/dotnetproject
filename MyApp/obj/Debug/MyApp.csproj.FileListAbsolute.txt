@@ -1,0 +1,6 @@
+D:\MyApp\MyApp\MyApp\bin\Debug\MyApp.exe.config
+D:\MyApp\MyApp\MyApp\bin\Debug\MyApp.exe
+D:\MyApp\MyApp\MyApp\bin\Debug\MyApp.pdb
+D:\MyApp\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+D:\MyApp\MyApp\MyApp\obj\Debug\MyApp.exe
+D:\MyApp\MyApp\MyApp\obj\Debug\MyApp.pdb
