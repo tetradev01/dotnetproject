@@ -3,7 +3,7 @@
 SET DIR=%~d0%~p0%
 
 SET database.name="customers"
-SET sql.files.directory="%DIR%\sqls"
+SET sql.files.directory="%DIR%"
 SET server.database="USER-PC\SQLEXPRESS"
 SET repository.path="https://github.com/chucknorris/roundhouse.git"
 SET version.file="_BuildInfo.xml"
